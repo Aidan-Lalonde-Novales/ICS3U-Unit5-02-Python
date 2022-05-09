@@ -12,7 +12,7 @@ def triangle_area(base, height):
     area = (base * height) / 2
 
     # output
-    print("The area of your triangle is {0}cm².".format(area))
+    print("The area of your triangle is {0} cm².".format(area))
 
 
 def main():
